@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Abdul Wahab (@abdul-wahab-developer)
 
 ## 👀 About Me
-I’m a passionate *Backend Developer* from Pakistan specializing in *Laravel. I focus on creating efficient and scalable applications and am on a journey to start my own agency, **NexaDigitals*, aiming to serve international clients with high-quality development solutions.
+I’m a passionate *Backend Developer* from Pakistan specializing in *Laravel. I focus on creating efficient and scalable applications, aiming to serve international clients with high-quality development solutions.
 
 ## 🌱 Currently Learning
 I’m diving deeper into advanced Laravel techniques and exploring *frontend frameworks* to enhance my full stack capabilities. I'm also expanding my skills in *cloud services* and *API integrations* to build robust applications.
